@@ -2,7 +2,7 @@
 ;;;
 ;;; This file is NOT part of GNU Guix.
 
-(define-module (modules packages terminals-emulators)
+(define-module (packages terminals-emulators)
   #:use-module ((guix licenses) #:prefix license:)
   #:use-module (gnu packages base)
   #:use-module (gnu packages compression)
