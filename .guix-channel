@@ -1,0 +1,5 @@
+(channel
+  (version 0)
+  (url "https://github.com/sweatierkey/my-guix-channel")
+  (branch "main"))
+
