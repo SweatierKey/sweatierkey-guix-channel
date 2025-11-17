@@ -297,7 +297,7 @@
                              (sha256
                                (base32
                                  "1i2w213919avi0apgbw720wqy0z46a89bwv3b65hkbc2icg6jyn5")))))
-                        (""
+                        ("N-V-__8AALIsAwDyo88G5mGJGN2lSVmmFMx4YePfUvp_2o3Y"
                          (ungexp
                            (origin
                              (method url-fetch)
