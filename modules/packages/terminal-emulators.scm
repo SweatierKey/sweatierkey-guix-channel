@@ -301,7 +301,7 @@
                          (ungexp
                            (origin
                              (method url-fetch)
-                             (uri "https://github.com/mbadolato/iTerm2-Color-Schemes/releases/download/release-20251002-142451-4a5043e/ghostty-themes.tgz")
+                             (uri "https://github.com/mbadolato/iTerm2-Color-Schemes/releases/download/release-20251110-150531-d5f3d53/ghostty-themes.tgz")
                              (sha256
                                (base32
                                  "0z1a82gv67851x0bf5hwplkra45s2pj26ydkzdx3lcrhvrb1dh8s")))))
