@@ -1,9 +1,4 @@
 (channel
- (name 'sweatierkey)
+ (version 0)
  (url "https://github.com/sweatierkey/sweatierkey-guix-channel")
- (branch "main")
- (introduction
-  (make-channel-introduction
-   "b8ecbfd6052d489ae11386fb262ed42cc9338dd4"
-   (openpgp-fingerprint
-	"D743 8F90 5623 5CD7 9E94  4054 FB44 064A E611 98D1"))))
+ (branch "main"))
