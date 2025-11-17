@@ -297,14 +297,11 @@
                              (sha256
                                (base32
                                  "1i2w213919avi0apgbw720wqy0z46a89bwv3b65hkbc2icg6jyn5")))))
-                        ("N-V-__8AALIsAwDyo88G5mGJGN2lSVmmFMx4YePfUvp_2o3Y"
+                        (""
                          (ungexp
                            (origin
                              (method url-fetch)
-                             (uri "https://github.com/mbadolato/iTerm2-Color-Schemes/releases/download/release-20251110-150531-d5f3d53/ghostty-themes.tgz")
-                             (sha256
-                               (base32
-                                 "apdbebzq001exs1c1smah5gdhg3419m6wny1pg6dyx559tw97m10")))))
+                             (uri "https://github.com/mbadolato/iTerm2-Color-Schemes/releases/download/release-20251110-150531-d5f3d53/ghostty-themes.tgz"))))
                         ("N-V-__8AAH0GaQC8a52s6vfIxg88OZgFgEW6DFxfSK4lX_l3"
                          (ungexp
                            (origin
